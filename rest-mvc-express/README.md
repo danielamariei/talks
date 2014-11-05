@@ -1,4 +1,4 @@
-RESTing on MCV using Node.js and Express
+RESTing on MCV using Node.js and Express.
 =====
 
 The purpose of this talk is to review some of the basics that we deal with when developing software for the WWW.
