@@ -10,4 +10,4 @@ Some of the topics that are discussed include:
 * The Node.js framwork;
 * Creating a basic application using Express.
 
-The **agenda** folder contains the source code of the use-case. Be sure to run *npm-install* after downloading the source code to your machine; this will install all the required modules that are refferenced in the *package.json* file.
+The **agenda** folder contains the source code of the use-case. Be sure to run *npm install* after downloading the source code to your machine; this will install all the required modules that are referenced in the *package.json* file.
