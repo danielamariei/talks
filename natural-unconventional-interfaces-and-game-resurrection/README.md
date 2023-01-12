@@ -9,7 +9,6 @@ In this section of the presentation, we expose the main characteristics for each
 
 #### Tetris GamR (Game Resurrection) 
 We describe the main aspects of our developed game. As the game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural (Leap Motion), locomotion (Makey Makey), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
-ud.
 
 
 ### Presentation
