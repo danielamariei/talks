@@ -1,4 +1,4 @@
-RESTing on MVC using Node.js and Express.
+RESTing on MVC using Node.js and Express
 =====
 
 ### Introduction
