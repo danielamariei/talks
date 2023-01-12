@@ -2,8 +2,7 @@ RESTing on MVC using Node.js and Express.
 =====
 
 ### Introduction
-The purpose of this talk is to review some of the basics that we deal with when developing software for the WWW.
-Some of the topics that are discussed include:
+In this talk we review some of the basics aspects that we deal with when developing software for the World Wide Web (WWW). Some of the topics that are discussed include:
 
 * What a Pattern is and the different types;
 * The MVC Architectural Pattern;
