@@ -10,7 +10,7 @@ The purpose of this talk is to cover how `Insufficient Process Validation` occur
 
 
 ### Code
-Practical examples that depict `Insuficient Process Validation` situations:
+We cover practical examples that depict `Insuficient Process Validation` situations:
 * `best-buy`: Entering negative values on donation forms. 
 * `list`: Listing directories without beeing authenticated.
 * `youtube`: Accessing restricted content.
