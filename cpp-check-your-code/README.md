@@ -4,6 +4,11 @@ Cppcheck Your Code
 ### Introduction
 The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using Cppcheck as a tool. In order to accomplish this goal, we have structured the presentation as follows: section 2 describes the levels at which a program analysis can be performed; section 3  further details program analysis and possible approaches in performing it; section 4 presents Cppcheck, both from an architectural and practical standpoints, while in section 5 we conclude.
 
+### Presentation
+* [Detailed presentation is available here](https://docs.google.com/document/d/1jp3S_OWK9ShcKTnZFw57tMaT4-I5ZZAUeNsCyADN-4g/edit)
+* [Slides are available here](https://docs.google.com/presentation/d/1XSpmvrk9W-sevYUNxFEf9g6Ps3Ta7DUJYNs1isw8_4k/edit)
+
+
 ### Code
 * Tests
   * `test1.cpp`: The purpose of this file is to provide an example of a simple out of bounds * * error. Array A has a size of ten elements, but the indexing starts at zero. So, in the for loop, when we try to index the array in the last iteration (i.e., with ten), the checker will determine that an out of bounds error happens.
@@ -21,9 +26,4 @@ The purpose of this talk is to offer a concise view of program analysis, especia
   * `*.txt` files contain output results
 * Template
   * How to format the output
-
-
-### Presentation
-* [Detailed presentation is available here](https://docs.google.com/document/d/1jp3S_OWK9ShcKTnZFw57tMaT4-I5ZZAUeNsCyADN-4g/edit)
-* [Slides are available here](https://docs.google.com/presentation/d/1XSpmvrk9W-sevYUNxFEf9g6Ps3Ta7DUJYNs1isw8_4k/edit)
 
