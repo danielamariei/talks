@@ -12,3 +12,6 @@ This directory contains various talks
 * [Cppcheck Your Code](https://github.com/danielamariei/talks/tree/master/cpp-check-your-code)
 * [Insufficient Process Validation](https://github.com/danielamariei/talks/tree/master/insufficient-process-validation)
 * [SQL Injection Tools: Pangoling and sqlmap](https://github.com/danielamariei/talks/tree/master/pangoling-and-sqlmap)
+* [w3af: Web Application Attack and Audit Framework](https://github.com/danielamariei/talks/tree/master/w3af)
+
+
