@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<rule version="1">
+	<pattern>if \( True \) { .+ }</pattern>
+	<message>
+		<id>redundantConditionalExpression</id>
+		<severity>style</severity>
+		<summary>Redundant conditional expression. Expressions that are always true do not change the flow of execution at any time.</summary>
+	</message>
+</rule>
+ 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.67"/>
+    <errors>
+        <error id="arrayIndexOutOfBounds" severity="error" msg="Array &apos;A[10]&apos; accessed at index 10, which is out of bounds." verbose="Array &apos;A[10]&apos; accessed at index 10, which is out of bounds.">
+            <location file="test1.cpp" line="11"/>
+        </error>
+    </errors>
+</results>
