@@ -11,7 +11,7 @@ The purpose of this talk is to offer a concise view of program analysis, especia
 
 ### Code
 * Tests
-  * `test1.cpp`: The purpose of this file is to provide an example of a simple out of bounds * * error. Array A has a size of ten elements, but the indexing starts at zero. So, in the for loop, when we try to index the array in the last iteration (i.e., with ten), the checker will determine that an out of bounds error happens.
+  * `test1.cpp`: The purpose of this file is to provide an example of a simple out of bounds error. Array A has a size of ten elements, but the indexing starts at zero. So, in the for loop, when we try to index the array in the last iteration (i.e., with ten), the checker will determine that an out of bounds error happens.
   * `test2.cpp`:  The purpose of this file is to provide an example of a simple uninitialized variable error. Variables a and b are not initialized by default before passing them as argument to the printSum function. As such, the checker will determine and uninitialized variable error for both a and b.
   * `test3.cpp`:  This example build on the previous one in order to provide an example of a unused function and variable errors. Here, variable x is declared but never used. The same situation is true for the function compouteDouble.
   * `test4.cpp`:  This is an example where the checkers do not detect that a buffer overflow is possible. Moreover, we would like the checker do detect that the from buffer is uninitialized.
