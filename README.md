@@ -9,3 +9,4 @@ This directory contains various talks
 * [Natural/unconventional interfaces and game resurrection](https://github.com/danielamariei/talks/blob/master/natural-unconventional-interfaces-and-game-resurrection/)
 * [RESTing on MVC using Node.js and Express](https://github.com/danielamariei/talks/tree/master/rest-mvc-express)
 * [AOP Case Studies](https://github.com/danielamariei/talks/tree/master/aop-case-studies)
+* [Cppcheck Your Code](https://github.com/danielamariei/talks/tree/master/cpp-check-your-code)
