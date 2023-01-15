@@ -2,7 +2,7 @@ AOP Case Studies
 =====
 
 ### Introduction
-Aspect Oriented Programming (AOP) case studies.
+In this talk with go over some Aspect Oriented Programming (AOP) case studies, together with some practical examples.
 
 * Using AOP with class hierarchies
 * Runtime measurement: 
