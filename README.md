@@ -11,3 +11,4 @@ This directory contains various talks
 * [AOP Case Studies](https://github.com/danielamariei/talks/tree/master/aop-case-studies)
 * [Cppcheck Your Code](https://github.com/danielamariei/talks/tree/master/cpp-check-your-code)
 * [Insufficient Process Validation](https://github.com/danielamariei/talks/tree/master/insufficient-process-validation)
+* [SQL Injection Tools: Pangoling and sqlmap](https://github.com/danielamariei/talks/tree/master/pangoling-and-sqlmap)
