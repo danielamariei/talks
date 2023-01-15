@@ -7,7 +7,12 @@ Aspect Oriented Programming (AOP) case studies.
 * Using AOP with class hierarchies
 * Runtime measurement: 
   * AOP 
-  * The classical approach 
+  * The classical approach
+  
+### Code
+* `class-hierarchies` contains the logic for the `Automobile` case study
+* `runtime-measurement` contains the logic for the `Fibonacci` runtime measurement case study
+  * [The measurements can be found here](https://docs.google.com/spreadsheets/d/1SmyNMmyshXUXTHwQwlLBzXmnEd3C1uLmcciccAq-_qM/edit)
 
 
 ### Presentation
