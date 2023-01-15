@@ -27,7 +27,3 @@ The purpose of this talk is to offer a concise view of program analysis, especia
 * [Detailed presentation is available here](https://docs.google.com/document/d/1jp3S_OWK9ShcKTnZFw57tMaT4-I5ZZAUeNsCyADN-4g/edit)
 * [Slides are available here](https://docs.google.com/presentation/d/1XSpmvrk9W-sevYUNxFEf9g6Ps3Ta7DUJYNs1isw8_4k/edit)
 
-
-
-https://docs.google.com/presentation/d/1XSpmvrk9W-sevYUNxFEf9g6Ps3Ta7DUJYNs1isw8_4k/edit
-https://docs.google.com/document/d/1jp3S_OWK9ShcKTnZFw57tMaT4-I5ZZAUeNsCyADN-4g/edit
