@@ -2,7 +2,21 @@ Cppcheck Your Code
 ===
 
 ### Introduction
-The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using Cppcheck as a tool. In order to accomplish this goal, we have structured the presentation as follows: section 2 describes the levels at which a program analysis can be performed; section 3  further details program analysis and possible approaches in performing it; section 4 presents Cppcheck, both from an architectural and practical standpoints, while in section 5 we conclude.
+The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using `Cppcheck` as a tool. The presentation covers topic as follows: 
+* the levels at which a program analysis can be performed; 
+* program analysis and possible approaches in performing it; 
+* Cppcheck presentation, both from an architectural and practical standpoints
+
+Practical examples for the including, but not limited to:
+* out of bonds errors
+* unitialized variable error
+* unused function errors 
+* unused variable errors
+* buffer overflow errros
+* using initialized memory only
+* must free the buffer after using it
+* detection of redundant conditional expressions
+* configuration possibilities
 
 ### Presentation
 * [Detailed presentation is available here](https://docs.google.com/document/d/1jp3S_OWK9ShcKTnZFw57tMaT4-I5ZZAUeNsCyADN-4g/edit)
