@@ -2,11 +2,6 @@ Cppcheck Your Code
 ===
 
 ### Introduction
-The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using `Cppcheck` as a tool. 
-* the levels at which a program analysis can be performed; 
-* program analysis and possible approaches in performing it; 
-* Cppcheck presentation, both from an architectural and practical standpoints
-
 The purpose of this presentation is to describe the Erlang programming language together with a few concepts that entail a better understanding of the context. The presentation will cover the following aspects:
 * consistency models and examples
 * concurrency and parallelism and the difference between them
